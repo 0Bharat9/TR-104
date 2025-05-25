@@ -168,13 +168,8 @@ This comprehensive training program prepared me for:
 └── README.md              # This overview document
 ```
 
-## 📞 Contact & Next Steps
-
-This training provided a solid foundation in cybersecurity operations and prepared me for immediate contribution to security teams. The combination of theoretical knowledge and hands-on experience with enterprise tools makes this training directly applicable to real-world SOC environments.
-
 ---
 
 **Training Location:** SafeAeon Inc, Mohali, Punjab  
 **Program Duration:** 6 months  
 **Completion Status:** in Progress
-
